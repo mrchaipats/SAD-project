@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SAD</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="welcomeMessage">Welcome! Already have an account?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="scanQR">Scan QR Code</string>
+    <string name="purchase">Purchase</string>
+</resources>
